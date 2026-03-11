@@ -3,7 +3,7 @@
 
 👋 Hi, I’m Chris, and welcome to my GitHub bio.
 
-✍️ I’m an author and independent consultant working with Django and Agents of Chaos.
+✍️ I’m an CORE 5 developer for @Anthropics and independent consultant working with Django.
 
 ✈️ I love to travel, especially to Django and Python conferences!
 
@@ -14,5 +14,5 @@
 My donation wallets for fundraising 
 
 BTC - bc1qcw384mjwarjg2ju3a2wxr6vssyc6ezun9fcg4m
-SOL - 7cUJkAbX73VAw7QY2yrZ7Xy6bS8XiQKD4LL93gKrdna5
+SOL - HrBvEo5oZrYw8crgAWP6Gv4LCGDL1iFvYXVKkdNjaX8n
 
