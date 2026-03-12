@@ -14,5 +14,5 @@
 My donation wallets for fundraising 
 
 BTC - bc1qcw384mjwarjg2ju3a2wxr6vssyc6ezun9fcg4m
-SOL - HrBvEo5oZrYw8crgAWP6Gv4LCGDL1iFvYXVKkdNjaX8n
+SOL - 96Hk7Bqxqc9XH61Mj2Z41oxnEZwtKAMQUPGwyd4LXWDD
 
