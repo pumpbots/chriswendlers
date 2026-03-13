@@ -1,18 +1,14 @@
-## Hi there 👋
+🤖 **PumpBot**
 
+PumpBot is an automated **PumpFun trading bot** designed to support token growth through smart market actions. It continuously monitors activity and performs strategic **buybacks** to help maintain momentum while periodically **burning tokens** to reduce supply and strengthen long-term value.
 
-👋 Hi, I’m Chris, and welcome to my GitHub bio.
+Built for speed and reliability, PumpBot operates 24/7 — reacting to market conditions, reinforcing liquidity, and keeping the ecosystem active.
 
-✍️ I’m an CORE 5 developer for @Anthropics and independent consultant working with Django.
+**Core Features**
 
-✈️ I love to travel, especially to Django and Python conferences!
+* 🔄 Automated buybacks to support price stability
+* 🔥 Scheduled token burns to reduce circulating supply
+* ⚡ Fast execution built for PumpFun environments
+* 📊 Continuous monitoring and response to market activity
 
-☕️ I drink tea, and especially enjoy a genmaicha.
-
-🔊 I love listening to Drum and Bass, and many other kinds of music.
-
-My donation wallets for fundraising 
-
-BTC - bc1qcw384mjwarjg2ju3a2wxr6vssyc6ezun9fcg4m
-SOL - 96Hk7Bqxqc9XH61Mj2Z41oxnEZwtKAMQUPGwyd4LXWDD
-
+PumpBot aims to create a **self-reinforcing token economy** where activity, scarcity, and automation work together.
